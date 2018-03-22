@@ -10,4 +10,4 @@ Once the function has been parsed from a string into a data tree structure, the 
 
 ## MacLaurin Polynomial Approximation
 Using the ability to differentiate a passed function any number of times a MacLaurin Polynomial Approximation is able to be generated for a given function. Due to the limited computing power of my laptop I was only able to generate the apporximation for nine terms of the MacLaurin series of the function.
-The reason for this limit is the data tree become to large after nine derivaitves of the function. To allow a greater accuracy (i.e. generating more terms) a Prune function would have to be added to eleiminate redundent nodes in the tree.
+The reason for this limit is the data tree becomes too large after nine derivaitves of the function. To allow a greater accuracy (i.e. generating more terms) a prune function would have to be added to eleiminate redundent nodes in the tree.
